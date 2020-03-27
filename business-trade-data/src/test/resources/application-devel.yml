@@ -1,0 +1,6 @@
+#行业交易平台配置
+business.trade.platform:
+  #各平台url
+  urlMap:
+    TAXI_ZHENGSHANG: http://127.0.0.1
+    TAXI_ZHENGTIAN: http://localhost

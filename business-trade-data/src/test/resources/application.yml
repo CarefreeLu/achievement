@@ -1,0 +1,6 @@
+# 激活配置
+spring.profiles.active: devel
+
+spring:
+    application.name: elin-commons-trade-business
+
